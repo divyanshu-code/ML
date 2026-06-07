@@ -24,7 +24,7 @@
 # finalAnswer = (firstNumber+secondNumber+thirdNumber)/3 
 # print("Average is: " , finalAnswer)
 
-# Q.04 
+# Q.04 ---------------------------------------------------------------------------------------------
 
 # value = input("enter the string: ")
 
@@ -37,7 +37,7 @@
 # integer= str(value) 
 # print("convert  into string" , type(integer))
 
-# Q.05 
+# Q.05 ---------------------------------------------------------------------------------------------
 
 # x = 10 + 3 * 2 ** 2
 
@@ -49,7 +49,7 @@
 # 2--> 3 * 4 = 12 
 # 3--> 10 + 12 = 22
 
-# Q.06 
+# Q.06 ---------------------------------------------------------------------------------------------
 
 # firstNumber = float(input("Enter a first no.: "))
 # secondNumber = float(input("Enter a second no.: "))
@@ -61,7 +61,7 @@
 # print("Firstnumber: " , firstNumber)
 # print("Secondnumber: " , secondNumber)
 
-# Q.07 
+# Q.07 ---------------------------------------------------------------------------------------------
 
 # tempt= input("Enter a temperature in celcius: ")
 
@@ -70,7 +70,7 @@
 # conversion = (temperature * (9/5)) + 32
 # print("Temperature in Fahrenheit: " , conversion)
 
-# Q.08
+# Q.08 ---------------------------------------------------------------------------------------------
 
 # radius= float(input("Enter the radius: "))
 
@@ -78,7 +78,7 @@
 
 # print("Area of circle: " , areacalculation)
 
-# Q.09 
+# Q.09 ---------------------------------------------------------------------------------------------
 
 # P= float(input("Enter the principle: "))
 # R= float(input("Enter the rate: "))
@@ -88,7 +88,7 @@
 
 # print("Simple interest: " , SI)
 
-# Q.10 
+# Q.10 ---------------------------------------------------------------------------------------------
 
 value= float(input("Enter the value: "))
 
